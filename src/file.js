@@ -5,8 +5,8 @@
  * order is more than $99
  */
 
-var promoMessage = "Orders $99 and up ship free!";
-var minSubtotal = 99;
+var promoMessage = "¡Envío gratis a la capital en compras de Q150 o más!";
+var minSubtotal = 150;
 var widgets;
 
 // Calculating subtotal and displaying the message
