@@ -6,6 +6,7 @@
  */
 Ecwid.OnAPILoaded.add(function() {
  
+  console.log("Ecwid storefront JS API has loaded");
   var promoMessage = "¡Envío gratis a la capital en compras de Q150 o más!";
   var minSubtotal = 150;
   var widgets;
